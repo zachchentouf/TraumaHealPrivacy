@@ -1,4 +1,6 @@
-## TraumaHeal Privacy Policy
+# TraumaHeal Home
+
+## Trauma Heal Privacy Policy
 
 Last updated: 2025/08/25
 
@@ -66,6 +68,34 @@ The app is not directed to children under 13 (or under 16 where applicable). If 
 
 ### Changes to This Policy
 We may update this policy to reflect operational, legal, or regulatory changes. We will post the new effective date. Material changes will be communicated in‑app or via our site.
+
+
+---
+
+## Support
+
+If you need help with the app, contact us:
+- Email: zachariec1@gmail.com
+- Issue tracker: https://github.com/zachchentouf/TraumaHealPrivacy/issues
+
+Typical response time: 2–3 business days.
+
+## Contact (Data Protection/Privacy)
+
+- Data Controller: Zacharie Chentouf (TraumaHeal)
+- Email: zachariec1@gmail.com
+
+EU/UK users may also contact their local supervisory authority regarding complaints.
+
+## Copyright and Notices
+
+Copyright © 2025 Zacharie Chentouf. All rights reserved.
+
+“TraumaHeal” and related marks are trademarks or service marks of Zacharie Chentouf. All other product names, logos, and brands are property of their respective owners.
+
+This Privacy Policy is provided for informational purposes and may be updated from time to time. Material changes will be noted above in “Changes to This Policy.”
+
+Policy version: 1.0 • Last updated: 2025-08-25
 
 ### Contact
 - Email: zachariec1@gmail.com
